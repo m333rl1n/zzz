@@ -1,3 +1,8 @@
+# Installation
+```console
+$ cargo install --git https://github.com/m333rl1n/zzz.git
+```
+
 # Example
 ```console
 $ while true;do zzz data.yaml | notify -id logs; sleep 1800; done;
